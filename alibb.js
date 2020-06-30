@@ -1,3 +1,4 @@
+consolg.log("realdy");
 var code = "$9DfN1vGUxSS$";
 //var webtb_url = "https://m.tb.cn/h.VoKSC8G"; 
 //var webjd_url = "https://u.jd.com/TVLbWs";
