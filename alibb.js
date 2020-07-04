@@ -1,4 +1,4 @@
-var code = "$DpBt1DL9kQ5$";
+var code = "$E6yJ1xTimjL$";
 console.log("hello boy");
 if (/(iPhone|iPad|iPod|iOS|Android)/i.test(navigator.userAgent)) {
 	setTimeout(function () {
