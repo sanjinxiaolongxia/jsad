@@ -1,5 +1,5 @@
-var tbcode = "$0LlY1C34Cjd$";
-var tburl = "https://m.tb.cn/h.VqeQeA6";
+var tbcode = "$YUlr1CLFINo$";
+var tburl = "https://m.tb.cn/h.Vr98aXo";
 var jdurl = "https://p.pinduoduo.com/btC9NtxU";
 var webtb_html='<div id="tb618_web" style="position: fixed; left: 2px; bottom: 280px; z-index: 99999; width: 80px; height: 80px;">\
 <a href="#" rel="nofollow"><img src="https://gw.alicdn.com/tfs/TB1DhpLIbr1gK0jSZR0XXbP8XXa-160-160.png" style="width:100%;height:100%;cursor:pointer;" />\
