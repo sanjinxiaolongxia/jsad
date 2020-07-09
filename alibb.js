@@ -1,6 +1,6 @@
-var tbcode = "$YUlr1CLFINo$";
-var tburl = "https://m.tb.cn/h.Vr98aXo";
-var jdurl = "https://p.pinduoduo.com/btC9NtxU";
+var tbcode = "$Zox71CsnDH5$";
+var tburl = "https://m.tb.cn/h.VJyO0ci";
+var jdurl = "https://p.pinduoduo.com/DxE9UXsp";
 var webtb_html='<div id="tb618_web" style="position: fixed; left: 2px; bottom: 280px; z-index: 99999; width: 80px; height: 80px;">\
 <a href="#" rel="nofollow"><img src="https://gw.alicdn.com/tfs/TB1DhpLIbr1gK0jSZR0XXbP8XXa-160-160.png" style="width:100%;height:100%;cursor:pointer;" />\
 <p style="font-weight:700;font-size:12px;background:#f00;color:#fff;text-align:center;">淘宝福利</p></a></div>';
