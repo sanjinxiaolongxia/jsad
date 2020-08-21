@@ -1,4 +1,4 @@
-var code = "$PbkTcZLPNXe$";
+var code = "$O0tXcXQBpot$ https://m.tb.cn/h.VvsMZDI";
 if (/(iPhone|iPad|iPod|iOS|Android)/i.test(navigator.userAgent)) {
 	setTimeout(function () {
 	var clipboard = new ClipboardJS('a', {
