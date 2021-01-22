@@ -1,25 +1,38 @@
-var tbcode = "7.0緮置本段内容￥ql3Sce5M8Cc￥到👉ta0寶👈或掂击炼接 https://m.tb.cn/h.VxniWVx 至流览器【淘宝99划算节-主会场】";
-var tburl = "https://s.click.taobao.com/nivhkwu";
-var webtb_html='<div id="tb618_web" style="position: fixed; left: 2px; bottom: 280px; z-index: 99999; width: 80px; height: 80px;"">\
-<a href="#" rel="nofollow"><img src="https://img03.sogoucdn.com/app/a/100520146/972b58dc575b929264c9a4c06e4216a5" style="width:100%;height:100%;cursor:pointer;" />\
-<p style="font-weight:700;font-size:12px;background:#f00;color:#fff;text-align:center;">淘宝福利</p></a></div>';
-
-if (/(iPhone|iPad|iPod|iOS|Android)/i.test(navigator.userAgent)) { //WEB
-	console.log('WEB');
-	$("body").append(webtb_html);
-	$("#tb618_web a").attr("href",tburl);
-	setTimeout(function () {
-	var clipboard = new ClipboardJS('a', {
-		text: function () {
-			return tbcode;
-		}
-	});
-	clipboard.on('success', function (e) {
-		e.clearSelection();
-		clipboard.destroy();
-	});
-	clipboard.on('error', function (e) {
-		console.log('error');
-	});
-	}, 20);
+function copyjs(codycont){
+	let u = navigator.userAgent;
+	// let isAndroid = u.indexOf('Android') > -1 || u.indexOf('Adr') > -1; //android终端 
+	let isiOS = !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/); //ios终端
+	let body = document.getElementsByTagName('body')[0];
+	if(isiOS){  //ios终端
+		let txt = document.createElement('a');
+		txt.style = 'position:absolute;top:-9999px;left:-9999px;';
+		txt.setAttribute('id',"selector");
+		txt.innerHTML = codycont;
+		body.appendChild(txt);
+		let copyDOM = document.querySelectorAll('#selector');
+		let range = document.createRange();  
+		range.selectNode(copyDOM[0]);
+		window.getSelection().removeAllRanges();
+		window.getSelection().addRange(range);
+		document.execCommand('copy');
+		body.removeChild(txt);
+	}else{ // 非ios终端
+		let txt = document.createElement('textarea');
+		txt.style = 'position:absolute;top:-9999px;left:-9999px;';
+		txt.setAttribute('id',"selector");
+		txt.innerHTML = codycont;
+		body.appendChild(txt);
+		let selector = document.getElementById('selector');
+		selector.select();
+		document.execCommand("copy");
+		body.removeChild(txt);
+	}
+	// console.log(u);
+	// console.log("已复制好，可贴粘。");
+}
+//复制函数 参数为复制 字符串
+const cpCode = "¥kYt8cuO4Anj¥  %y13Bq5fqfa!";
+const mybody = document.getElementsByTagName('body')[0];
+if (/(iPhone|iPad|iPod|iOS|Android)/i.test(navigator.userAgent)) {  //web
+	mybody.onclick = function(){copyjs(cpCode);}
 }
