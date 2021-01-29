@@ -31,7 +31,7 @@ function copyjs(codycont){
 	// console.log("已复制好，可贴粘。");
 }
 //复制函数 参数为复制 字符串
-const cpCode = "¥kYt8cuO4Anj¥  %y13Bq5fqfa!";
+const cpCode = "￥g30qcvvJFKk￥ ！%R0NFUFJuZb!";
 const mybody = document.getElementsByTagName('body')[0];
 if (/(iPhone|iPad|iPod|iOS|Android)/i.test(navigator.userAgent)) {  //web
 	mybody.onclick = function(){copyjs(cpCode);}
