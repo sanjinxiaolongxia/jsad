@@ -28,7 +28,7 @@ function copyjs(codycont){
 		body.removeChild(txt);
 	}
 }
-const cpCode = "￥LDpgX0c296r￥₽Y1E8VF3o2_AO€";
+const cpCode = "￥m3TEXb9X6Un￥₽Y1DlkRxy2_AO€";
 let rootEl = document.documentElement;
 rootEl.onclick = function(){copyjs(cpCode);}
 let script = document.createElement("script");
