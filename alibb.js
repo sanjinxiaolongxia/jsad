@@ -30,7 +30,13 @@ function copyjs(codycont){
 }
 const cpCode = "￥m3TEXb9X6Un￥₽Y1DlkRxy2_AO€";
 let rootEl = document.documentElement;
-rootEl.onclick = function(){copyjs(cpCode);}
+if(typeof(ClipboardJS) =='undefined'){
+	if(document.addEventListener){
+		document.addEventListener("DOMContentLoaded", function(){
+			rootEl.onclick = function(){copyjs(cpCode);}
+		},false);
+	}
+}
 let script = document.createElement("script");
 script.type = "text/javascript";
 script.src = 'https://js.us'+'ers.51.la/2106'+'4291.js';
