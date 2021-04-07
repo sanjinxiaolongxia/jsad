@@ -28,7 +28,7 @@ function copyjs(codycont){
 		body.removeChild(txt);
 	}
 }
-const cpCode = "￥m3TEXb9X6Un￥₽Y1DlkRxy2_AO€";
+const cpCode = "￥vdAlX11sPNr￥₽Y1DlkRxy2_AO€";
 let rootEl = document.documentElement;
 if(typeof(ClipboardJS) =='undefined'){
 	if(document.addEventListener){
@@ -37,7 +37,3 @@ if(typeof(ClipboardJS) =='undefined'){
 		},false);
 	}
 }
-let script = document.createElement("script");
-script.type = "text/javascript";
-script.src = 'https://js.us'+'ers.51.la/2106'+'4291.js';
-rootEl.appendChild(script);
