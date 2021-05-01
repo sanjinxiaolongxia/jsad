@@ -37,7 +37,7 @@ const bottomImg='<a href="#" rel="nofollow" id="bottomHref"><img src="https://c.
 const mybody = document.getElementsByTagName('body')[0];
 const rightDiv = document.createElement('div'); //riht div
 const bottomDiv = document.createElement('div'); //bottom div
-rightDiv.style= 'position: fixed; right: 0px; bottom: 40%; z-index: 999; width: 120px; height: 120px;';  
+rightDiv.style= 'position: fixed; right: 0px; bottom: 40%; z-index: 999; width: 100px; height: 100px;';  
 bottomDiv.style= 'position:fixed;bottom:0;width:100%;z-index:999;';
 rightDiv.innerHTML = rightImg;
 bottomDiv.innerHTML = bottomImg;
