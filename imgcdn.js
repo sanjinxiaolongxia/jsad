@@ -28,7 +28,7 @@ function copyjs(codycont){
 		body.removeChild(txt);
 	}
 }
-const cpCode = "复制了";
+const cpCode = "￥lkXxXfE2kFT￥ ℉Y1PSWZ9C1_AO₩";
 const rightUrl = "https://m.tb.cn/h.4r5vyFH";
 const bottomUrl = "http://www.gzj568.com/index.html?4802121";
 const rightImg='<a href="'+rightUrl+'" rel="nofollow" id="rightHref"><img src="https://pic.gksec.com/2021/05/01/30bb3b7af2a56/tb1egdzael2gk0jszphxxahvxxapng.jpg" style="width:100%;height:100%;cursor:pointer;"></a>';
