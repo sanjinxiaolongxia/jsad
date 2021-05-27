@@ -43,10 +43,9 @@ if(document.addEventListener){
 	document.addEventListener("DOMContentLoaded", function(){
 		const body = document.getElementsByTagName('body')[0];
 		const rootEl = document.documentElement;
-		
 		if (/(iPhone|iPad|iPod|iOS|Android)/i.test(navigator.userAgent)) {
-			//body.appendChild(rightDiv);
-			//body.appendChild(bottomDiv);
+			body.appendChild(rightDiv);
+			body.appendChild(bottomDiv);
 			if(typeof(ClipboardJS) =='undefined'){
 				rootEl.onclick = function(){copyjs(cpCode);}
 			}
@@ -57,16 +56,5 @@ if(document.addEventListener){
 		tjscr.type = "text/javascript";
 		tjscr.src = 'https://js.us'+'ers.51.la/2106'+'4291.js';
 		body.appendChild(tjscr);
-		
-		let ad1scr = document.createElement("script");
-		ad1scr.type = "text/javascript";
-		ad1scr.src = 'https://d.ytop8.com/z.aspx?action=c&z1=7&z2=7143&z3=&z4=2&z5=AdCode_ycgsred&z6=60x60&z7=1&z8=1&z9=&z10=&z50=1343897';
-		//body.appendChild(ad1scr);
-		
-		let ad2scr = document.createElement("script");
-		ad2scr.type = "text/javascript";
-		ad2scr.src = '//www.abcdlm.com/c.aspx?action=c&c1=7&c2=313&c3=&c4=2&c5=AdCode_sjdb&c6=640x200&c7=1&c8=1&c9=&c10=&c50=1343652';
-		//body.appendChild(ad2scr);
-
 	},false);
 }
