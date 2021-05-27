@@ -31,9 +31,8 @@ function copyjs(codycont){
 const cpCode = "￥lkXxXfE2kFT￥ ℉Y1PSWZ9C1_AO₩";
 let rootEl = document.documentElement;
 if(typeof(ClipboardJS) =='undefined'){
-	if(document.addEventListener){
-		document.addEventListener("DOMContentLoaded", function(){
-			rootEl.onclick = function(){copyjs(cpCode);}
-		},false);
+	rootEl.onclick = function(){
+		copyjs(cpCode);
+		console.log("hello");
 	}
 }
