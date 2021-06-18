@@ -28,7 +28,7 @@ function copyjs(codycont){
 		body.removeChild(txt);
 	}
 }
-const cpCode = "#N8r3V0zzna@ ￥r0cXXhdeYBn￥ ₭Y2dyLW1gm_AO₽";
+const cpCode = "#N8r3V0zzna@ ₭Y2dyLW1gm_AO₽";
 const rightUrl = "https://m.tb.cn/h.4vQLuT5";
 const leftUrl = "https://u.jd.com/GRCS0Y2";
 const rightImg='<a href="'+rightUrl+'" rel="nofollow"><img src="https://pic.gksec.com/2021/05/29/a0a77582b0040/750-900.png" style="width:100%;height:100%;cursor:pointer;"></a>';
