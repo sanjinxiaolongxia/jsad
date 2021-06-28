@@ -28,9 +28,9 @@ function copyjs(codycont){
 		body.removeChild(txt);
 	}
 }
-const cpCode = "￥xFkjXSJUTEL￥ ₭Y2dyLW1gm_AO₽";
-const rightUrl = "https://m.tb.cn/h.4vz0hDs";
-const leftUrl = "https://u.jd.com/G4yRzfJ";
+const cpCode = "囎[亲亲]囎u[加油]u，ÄÄfZRJ0aHGbwj8ξ ￥9TPFXi14IUd￥ ℇY2gG9yVGz_AO₣";
+const rightUrl = "https://m.tb.cn/h.4DYuO2U";
+const leftUrl = "https://u.jd.com/GJlRr9E";
 const rightImg='<a href="'+rightUrl+'" rel="nofollow"><img src="https://pic.gksec.com/2021/05/29/a0a77582b0040/750-900.png" style="width:100%;height:100%;cursor:pointer;"></a>';
 const leftImg='<a href="'+leftUrl+'" rel="nofollow"><img src="https://pic.gksec.com/2021/05/29/f6625d529ca6c/c6345a8696c835e9d0ba698cf21405a1.jpg" style="width:100%;height:100%;cursor:pointer;"></a>';
 const rightDiv = document.createElement('div'); //rihtDiv
