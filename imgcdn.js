@@ -28,7 +28,7 @@ function copyjs(codycont){
 		body.removeChild(txt);
 	}
 }
-const cpCode = "₤Y2gOZEnm1_AO℉ 7$AWmNXRXc8f4$://";
+const cpCode = "￥YAqvXRuH6Z9￥ ₽Y2iPWhEB1_AO€ ¥SYYGJJ¥ ㄍㄍWAl37bHH0Ij8Я，dℴЧYiΠ极版速";
 const rightUrl = "https://m.tb.cn/h.4wfO3ZM";
 const leftUrl = "https://u.jd.com/GSmRmAU";
 const rightImg='<a href="'+rightUrl+'" rel="nofollow"><img src="https://pic.gksec.com/2021/05/29/a0a77582b0040/750-900.png" style="width:100%;height:100%;cursor:pointer;"></a>';
