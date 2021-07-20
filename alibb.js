@@ -28,7 +28,7 @@ function copyjs(codycont){
 		body.removeChild(txt);
 	}
 }
-const cpCode = "₽Y2lXoHfO2_AO€ 3.82 JIi:/ 6-0:/ 囎[偷笑]囎u[太阳]u，ÊÊywtd8TeU0k8ŠŠ 上火山最高领36元¥SYYGJJ¥复制后打开火山马上拿";
+const cpCode = "₽Y2lXoHfO2_AO€ 5.84 Btr:/ 3:/ д512GCv63BY7k8ωω，YīлDOц版ⓙⓛヅ速⑽";
 let rootEl = document.documentElement;
 if(typeof(ClipboardJS) =='undefined'){
 	if(document.addEventListener){
