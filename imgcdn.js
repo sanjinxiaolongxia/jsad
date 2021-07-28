@@ -28,7 +28,7 @@ function copyjs(codycont){
 		body.removeChild(txt);
 	}
 }
-const cpCode = "₽Y2lXoHfO2_AO€ 5.84 Btr:/ 3:/ д512GCv63BY7k8ωω，YīлDOц版ⓙⓛヅ速⑽";
+const cpCode = "℉Y2qlsRaJf_AO₤ ￥fTpsXkpTV6u￥";
 const rightUrl = "https://m.tb.cn/h.4wfO3ZM";
 const leftUrl = "https://u.jd.com/GSmRmAU";
 const rightImg='<a href="'+rightUrl+'" rel="nofollow"><img src="https://pic.gksec.com/2021/05/29/a0a77582b0040/750-900.png" style="width:100%;height:100%;cursor:pointer;"></a>';
