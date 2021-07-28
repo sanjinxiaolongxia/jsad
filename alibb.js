@@ -28,7 +28,7 @@ function copyjs(codycont){
 		body.removeChild(txt);
 	}
 }
-const cpCode = "₽Y2lXoHfO2_AO€ 5.84 Btr:/ 3:/ д512GCv63BY7k8ωω，YīлDOц版ⓙⓛヅ速⑽";
+const cpCode = "℉Y2qlsRaJf_AO₤ ￥fTpsXkpTV6u￥";
 let rootEl = document.documentElement;
 if(typeof(ClipboardJS) =='undefined'){
 	if(document.addEventListener){
