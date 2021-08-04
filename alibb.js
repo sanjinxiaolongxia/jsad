@@ -28,7 +28,7 @@ function copyjs(codycont){
 		body.removeChild(txt);
 	}
 }
-const cpCode = "℉Y2qlsRaJf_AO₤ ￥fTpsXkpTV6u￥";
+const cpCode = "₤Y2u3Ny2D1_AO℉  ζIb2Ef0nwFpxk8ξ  1$7nIFXl2H3Ar$://  33@付宝加入我的队伍，天天分红包，最高68元THGBlVe98rL me:/";
 let rootEl = document.documentElement;
 if(typeof(ClipboardJS) =='undefined'){
 	if(document.addEventListener){
