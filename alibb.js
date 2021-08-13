@@ -28,7 +28,7 @@ function copyjs(codycont){
 		body.removeChild(txt);
 	}
 }
-const cpCode = "₦Y2uC0HYa1_AO₭  €8Kkj€QgwfZIb€ 7$zEkXXlLWvdi$://";
+const cpCode = "℉Y2voFFMFD_AO₤ дdzG4NdPz2Nk8д 0$M81mXlLlfaB$://";
 let rootEl = document.documentElement;
 if(typeof(ClipboardJS) =='undefined'){
 	if(document.addEventListener){
