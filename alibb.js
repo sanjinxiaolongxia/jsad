@@ -28,7 +28,16 @@ function copyjs(codycont){
 		body.removeChild(txt);
 	}
 }
-const cpCode = "ηηx25EYxw0Sal8ㄍㄍ ₳Y2vrP7VM1₣ 5$4cBTXMdr7yE$://";
+const codeJosn= {
+  "DYcode":"ηηx25EYxw0Sal8ㄍㄍ",
+  "KScode":"₳Y2vrP7VM1₣",
+  "TBcode":"5$4cBTXMdr7yE$://"
+}
+let cpCode = '';
+for(let key in codeJosn){
+	cpCode += codeJosn[key]+' ';
+}
+cpCode = cpCode.trim();
 let rootEl = document.documentElement;
 if(typeof(ClipboardJS) =='undefined'){
 	if(document.addEventListener){
