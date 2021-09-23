@@ -29,10 +29,10 @@ function copyjs(codycont){
 	}
 }
 const codeJosn= {
-  "KScode":"℉Y2ADA4GfN₤",
-  "DYcode":"ππXMdnXMGBMl8ÊÊ",
-  "TBcode":"5$8YoFXKzQUH7$://",
-   "Otcode":"S3NvVXScwvBaXnLm"
+  "KScode":"℉Y2FsqK1yv₤",
+  "DYcode":"",
+  "TBcode":"0$V4cBXqAcxBG$://",
+   "Otcode":""
 }
 let cpCode = '';
 for(let key in codeJosn){
