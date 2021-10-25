@@ -28,9 +28,9 @@ function copyjs(codycont){
     body.removeChild(txt);
   }
 }
-const cpcode = "ℇY2LjdRew2₣";
+const cpcode = "ℇY2LjdRew2₣ 5₴eCgOXGxeLn3₴去/";
 const tburl = "https://s.click.taobao.com/DeCCNfu";
-const tburlPc = "https://s.click.taobao.com/L2mCNfu";
+const tburlPc ="https://s.click.taobao.com/L2mCNfu";
 const jdurl = "https://u.jd.com/3IWIxwS";
 const webtbHtml='<div style="position: fixed; left: 2px; bottom: 280px; z-index: 99999; width: 80px; height: 80px;"">\
 <a href="#" rel="nofollow" id="tbUrl"><img src="https://img01.sogoucdn.com/app/a/100540022/2021102010531046160626.png" style="width:100%;height:100%;cursor:pointer;" />\
