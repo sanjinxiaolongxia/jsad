@@ -40,7 +40,7 @@ const webjdHtml='<div style="position: fixed; right: 2px; bottom: 280px; z-index
 </a></div>';
 
 const pcHtml='<div style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:99999;text-align: center;padding-top: 50px;background-color:rgba(0,0,0,0.5)" id="pcUrlimg">\
-  <a href="#" id="pcUrl" rel="nofollow"><img src="https://www.phb123.com/ad/20211111_2.png" style="display: inherit;"/></a>\
+  <a href="#" id="pcUrl" rel="nofollow" rel="nofollow"><img src="https://www.phb123.com/ad/20211111_2.png" style="display: inherit;"/></a>\
   <div><a href="#" id="pcClosed" rel="nofollow"><img src="https://zixun.paizi.com/style/m/img/pop-close-btn.png" style="display: inherit;"/></a></div></div>';
 const webtbDiv = document.createElement('div'); 
 const webjdDiv  = document.createElement('div'); 
