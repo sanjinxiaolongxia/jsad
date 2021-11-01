@@ -30,8 +30,8 @@ function copyjs(codycont){
 }
 const codeJosn= {
   "KScode":"ℇY2OShZUI5₣",
-  "DYcode":"З8MwsЛЛqfonk7yЛЛ",
-  "TBcode":"¢TxvnXFR6UbM¢",
+  "DYcode":"",
+  "TBcode":"£LIc5XFOmvj6£",
    "Otcode":"#KADCg2lXICFv5Y%"
 }
 let cpCode = '';
