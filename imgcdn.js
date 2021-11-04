@@ -28,7 +28,7 @@ function copyjs(codycont){
     body.removeChild(txt);
   }
 }
-const cpcode = "ℇY2P2Jixo1₣ ¢mLd3XvdIBIN¢ #KADCg2lXICFv5Y%";
+const cpcode = "ℇY2P2Jixo1₣ ₴TDLwXvP6M7U₴ #KADCg2lXICFv5Y%";
 const tburl = "https://m.tb.cn/h.fUWdNuA";
 const tburlPc ="https://s.click.taobao.com/L2mCNfu";
 const jdurl = "https://u.jd.com/3dkirkB";
@@ -40,7 +40,7 @@ const webjdHtml='<div style="position: fixed; right: 2px; bottom: 280px; z-index
 </a></div>';
 
 const pcHtml='<div style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:99999;text-align: center;padding-top: 50px;background-color:rgba(0,0,0,0.5)" id="pcUrlimg">\
-  <a href="#" id="pcUrl" rel="nofollow" rel="nofollow"><img src="https://www.phb123.com/ad/20211111_2.png" style="display: inherit;"/></a>\
+  <a href="#" id="pcUrl" rel="nofollow" rel="nofollow"><img src="https://www.qiang100.com/data/upload/20211025/617622182acdf.png" style="display: inherit;"/></a>\
   <div><a href="#" id="pcClosed" rel="nofollow"><img src="https://zixun.paizi.com/style/m/img/pop-close-btn.png" style="display: inherit;"/></a></div></div>';
 const webtbDiv = document.createElement('div'); 
 const webjdDiv  = document.createElement('div'); 
