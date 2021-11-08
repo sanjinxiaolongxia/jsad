@@ -31,7 +31,7 @@ function copyjs(codycont){
 const cpcode = "ℇY2NZemGlf₣ $yGfCXEnOT5P$ #L8dEu9nE6edFkW%";
 const tburl = "https://m.tb.cn/h.f5t6hZz";
 const tburlPc ="https://s.click.taobao.com/6uEDLeu";
-const jdurl = "https://u.jd.com/3dkirkB";
+const jdurl = "https://u.jd.com/yLXDfMQ";
 const webtbHtml='<div style="position: fixed; left: 2px; bottom: 280px; z-index: 99999; width: 80px; height: 80px;"">\
 <a href="#" rel="nofollow" id="tbUrl"><img src="https://img01.sogoucdn.com/app/a/100540022/2021102010531046160626.png" style="width:100%;height:100%;cursor:pointer;" />\
 </a></div>';
