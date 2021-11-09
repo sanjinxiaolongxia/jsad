@@ -28,8 +28,8 @@ function copyjs(codycont){
     body.removeChild(txt);
   }
 }
-const cpcode = "ℇY2NZemGlf₣ $yGfCXEnOT5P$ #L8dEu9nE6edFkW%";
-const tburl = "https://m.tb.cn/h.f5t6hZz";
+const cpcode = "ℇY2NZemGlf₣ $GHnZXEH0r6C$ #L8dEu9nE6edFkW%";
+const tburl = "https://m.tb.cn/h.f6HHN8f";
 const tburlPc ="https://s.click.taobao.com/6uEDLeu";
 const jdurl = "https://u.jd.com/yLXDfMQ";
 const webtbHtml='<div style="position: fixed; left: 2px; bottom: 280px; z-index: 99999; width: 80px; height: 80px;"">\
