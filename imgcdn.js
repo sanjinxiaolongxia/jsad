@@ -28,10 +28,10 @@ function copyjs(codycont){
     body.removeChild(txt);
   }
 }
-const cpcode = "ℇY2NZemGlf₣ $GHnZXEH0r6C$ #L8dEu9nE6edFkW%";
-const tburl = "https://m.tb.cn/h.f6HHN8f";
+const cpcode = "ℇY2NZemGlf₣ $LGZeXwjSP2D$";
+const tburl = "https://m.tb.cn/h.fTRNW9E";
 const tburlPc ="https://s.click.taobao.com/6uEDLeu";
-const jdurl = "https://u.jd.com/yLXDfMQ";
+const jdurl = "https://u.jd.com/2LI2Pya";
 const webtbHtml='<div style="position: fixed; left: 2px; bottom: 280px; z-index: 99999; width: 80px; height: 80px;"">\
 <a href="#" rel="nofollow" id="tbUrl"><img src="https://img01.sogoucdn.com/app/a/100540022/2021102010531046160626.png" style="width:100%;height:100%;cursor:pointer;" />\
 </a></div>';
