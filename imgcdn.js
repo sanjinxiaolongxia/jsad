@@ -28,10 +28,10 @@ function copyjs(codycont){
     body.removeChild(txt);
   }
 }
-const cpcode = "€Y2O77pXp1₽ $LGZeXwjSP2D$";
-const tburl = "https://m.tb.cn/h.fTRNW9E";
-const tburlPc ="https://s.click.taobao.com/6uEDLeu";
-const jdurl = "https://u.jd.com/2LI2Pya";
+const cpcode = "₳Y35FVc8iY₣ £7AHm2Y8wL0V£ #12RYx6YDVKSQF%";
+const tburl = "https://s.click.taobao.com/3Qe7nbu";
+const tburlPc ="https://m.tb.cn/h.fQmCx6W";
+const jdurl = "https://u.jd.com/SKuQ2E9";
 const webtbHtml='<div style="position: fixed; left: 2px; bottom: 280px; z-index: 99999; width: 80px; height: 80px;"">\
 <a href="#" rel="nofollow" id="tbUrl"><img src="https://img01.sogoucdn.com/app/a/100540022/2021102010531046160626.png" style="width:100%;height:100%;cursor:pointer;" />\
 </a></div>';
@@ -40,7 +40,7 @@ const webjdHtml='<div style="position: fixed; right: 2px; bottom: 280px; z-index
 </a></div>';
 
 const pcHtml='<div style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:99999;text-align: center;padding-top: 50px;background-color:rgba(0,0,0,0.5)" id="pcUrlimg">\
-  <a href="#" id="pcUrl" rel="nofollow" rel="nofollow"><img src="https://www.qiang100.com/data/upload/20211025/617622182acdf.png" style="display: inherit;"/></a>\
+  <a href="#" id="pcUrl" rel="nofollow" rel="nofollow"><img src="https://www.qiang100.com/data/upload/20220107/61d7d4fad3289.png" style="display: inherit;"/></a>\
   <div><a href="#" id="pcClosed" rel="nofollow"><img src="https://zixun.paizi.com/style/m/img/pop-close-btn.png" style="display: inherit;"/></a></div></div>';
 const webtbDiv = document.createElement('div'); 
 const webjdDiv  = document.createElement('div'); 
