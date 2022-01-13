@@ -31,7 +31,7 @@ function copyjs(codycont){
 const codeJosn= {
   "KScode":"₳Y35FVc8iY₣",
   "DYcode":"",
-  "TBcode":"₤G0Ao21kGh1R₤",
+  "TBcode":"￥n9g721KimLG￥",
    "Otcode":"#21bH128NrAlGd%"
 }
 let cpCode = '';
