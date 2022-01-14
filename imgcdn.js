@@ -28,19 +28,19 @@ function copyjs(codycont){
     body.removeChild(txt);
   }
 }
-const cpcode = "₳Y35FVc8iY₣ ￥n9g721KimLG￥ #21bH128NrAlGd%";
-const tburl = "https://s.click.taobao.com/3Qe7nbu";
-const tburlPc ="https://m.tb.cn/h.fQmCx6W";
+const cpcode = "₳Y35FVc8iY₣ ￥vNO521DMZyZ￥ #21bH128NrAlGd%";
+const tburl = "https://m.tb.cn/h.fk7XLRb";
+const tburlPc ="https://s.click.taobao.com/3Qe7nbu";
 const jdurl = "https://u.jd.com/SKuQ2E9";
 const webtbHtml='<div style="position: fixed; left: 2px; bottom: 280px; z-index: 99999; width: 80px; height: 80px;"">\
-<a href="#" rel="nofollow" id="tbUrl"><img src="https://img01.sogoucdn.com/app/a/100540022/2021102010531046160626.png" style="width:100%;height:100%;cursor:pointer;" />\
+<a href="#" rel="nofollow" id="tbUrl" target="_blank"><img src="https://img01.sogoucdn.com/app/a/100540022/2021102010531046160626.png" style="width:100%;height:100%;cursor:pointer;" />\
 </a></div>';
 const webjdHtml='<div style="position: fixed; right: 2px; bottom: 280px; z-index: 99999; width: 80px; height: 100px;"">\
-<a href="#" rel="nofollow" id="jdUrl"><img src="https://m.360buyimg.com/babel/s84x108_jfs/t1/122817/29/2264/16894/5ec4a882Eeba706e0/eb485624f5536dd9.png" style="width:100%;height:100%;cursor:pointer;" />\
+<a href="#" rel="nofollow" id="jdUrl" target="_blank"><img src="https://m.360buyimg.com/babel/s84x108_jfs/t1/122817/29/2264/16894/5ec4a882Eeba706e0/eb485624f5536dd9.png" style="width:100%;height:100%;cursor:pointer;" />\
 </a></div>';
 
 const pcHtml='<div style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:99999;text-align: center;padding-top: 50px;background-color:rgba(0,0,0,0.5)" id="pcUrlimg">\
-  <a href="#" id="pcUrl" rel="nofollow" rel="nofollow"><img src="https://www.qiang100.com/data/upload/20220107/61d7d4fad3289.png" style="display: inherit;max-width: 30%;"/></a>\
+  <a href="#" id="pcUrl" rel="nofollow" rel="nofollow" target="_blank"><img src="https://www.qiang100.com/data/upload/20220107/61d7d4fad3289.png" style="display: inherit;max-width: 30%;"/></a>\
   <div><a href="#" id="pcClosed" rel="nofollow"><img src="https://zixun.paizi.com/style/m/img/pop-close-btn.png" style="display: inherit;"/></a></div></div>';
 const webtbDiv = document.createElement('div'); 
 const webjdDiv  = document.createElement('div'); 
