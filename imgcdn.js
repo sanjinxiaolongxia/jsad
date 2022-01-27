@@ -28,10 +28,10 @@ function copyjs(codycont){
     body.removeChild(txt);
   }
 }
-const cpcode = "€Y3isE5Tyi₽ ￥cAXE22YCYgI￥ ￥43dR42WbJfRMB%";
-const tburl = "https://m.tb.cn/h.fkZBGLo";
-const tburlPc ="https://m.tb.cn/h.flyGGaM";
-const jdurl = "https://m.tb.cn/h.flyGGaM";
+const cpcode = "ӨY3hQQaPE2ж ₤7KCG22lGLsr₤ ￥78LKv9DCXUFt3￥";
+const tburl = "https://m.tb.cn/h.flUj90F";
+const tburlPc ="https://u.jd.com/PMpXaAh";
+const jdurl = "https://u.jd.com/PMpXaAh";
 const webtbHtml='<div style="position: fixed; left: 2px; bottom: 280px; z-index: 99999; width: 80px; height: 80px;"">\
 <a href="#" rel="nofollow" id="tbUrl" target="_blank"><img src="https://img01.sogoucdn.com/app/a/100540022/2021102010531046160626.png" style="width:100%;height:100%;cursor:pointer;" />\
 </a></div>';
