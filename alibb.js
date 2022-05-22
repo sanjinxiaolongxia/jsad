@@ -29,9 +29,9 @@ function copyjs(codycont){
 	}
 }
 const codeJosn= {
-  "KScode":"₤Y3M51UGA1℉",
-  "TBcode":"(Gjfo2k00EVZ¢/",
-  "DYcode":"##OvdDnfNFls8##",
+  "KScode":"₳Y3NDKAGs8₣",
+  "TBcode":"(9xfu2P277si¢/",
+  "DYcode":"##QdOvdDnfNFls8##",
    "Otcode":""
 }
 let cpCode = '';
