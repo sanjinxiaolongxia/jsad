@@ -18,7 +18,7 @@ const webJdSrc=`
 `;
 const pcSrc=`
 <div style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:9999;text-align: center;padding-top: 50px;background-color:rgba(0,0,0,0.5)">
-	<a href="#" rel="nofollow"  id="pcAel">
+	<a href="#" rel="nofollow"  id="pcAel" target="_blank">
 		<img src="https://www.qiang100.com/data/upload/20220528/6291a0b51fa91.png" style="display: inherit;max-height: 70%;"/>
 	</a>
 	<div>
