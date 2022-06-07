@@ -42,7 +42,6 @@ if (/(iPhone|iPad|iPod|iOS|Android)/i.test(navigator.userAgent)) { //WEB
 	TdAel.setAttribute('href',tburl);
 
 }else{
-	console.log(pcurl)
 	const pcEl = document.createElement('div');
 	pcEl.innerHTML = pcSrc;
 	bodyEl.append(pcEl);
